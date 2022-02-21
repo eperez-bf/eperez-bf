@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eperez-bf
+- 👀 I’m interested in pentesting and cybersecurity!
+- 🌱 I’m currently learning on an internship at BishopFox! ❤️
+- 💞️ I’m looking to collaborate on the consulting team
+- 📫 How to reach me: eperez@bishopfox.com
